@@ -3,6 +3,8 @@
  https://www.euractiv.com/section/digital/news/eu-commission-fines-apple-pornography-sites-sue-eu-commission/ https://www.project-disco.org/european-union/detecting-csa-while-respecting-encryption-a-delicate-balance
 https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 
+Caution: Please read the "Howtouse.md" first before using the added documents for further research, publishing, reusage.
+
 A collections of german news articles +Wikipedia regarding the anti-encryption anti-csa laws (in draft)
 converted into PDF-format for reading on the go (OTG).
 
