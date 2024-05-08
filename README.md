@@ -6,6 +6,6 @@ https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 Caution: Please read the "Howtouse.md" first before using the added documents for further research, publishing, reusage.
 
 A collections of german news articles +Wikipedia regarding the anti-encryption anti-csa laws (in draft)
-converted into PDF-format for reading on the go (OTG).
+converted into PDF-format for reading on the go (OTG) published online between 2018 and 2024.
 
 Articles in the folder "Deutsch".
